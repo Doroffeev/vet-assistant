@@ -1,0 +1,1 @@
+{"ast":null,"code":"import View from \"react-native-web/dist/exports/View\";\nexport default View;","map":{"version":3,"names":["View"],"sources":["../../../src/components/FullWindowOverlay.web.tsx"],"sourcesContent":[null],"mappings":";AAGA,eAAeA,IAAI","ignoreList":[]},"metadata":{},"sourceType":"module"}
